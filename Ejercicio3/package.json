@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "Crea un programa que recoja a través de sus argumentos la dirección de una imagen de forma que cree en el mismo directorio que esta una carpeta `samples` con diferentes variaciones de la misma (blanco y negro, diversos tamaños, filtros...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "sharp": "^0.30.5"
+  }
+}
